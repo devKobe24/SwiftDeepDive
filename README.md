@@ -18,11 +18,13 @@
 | -------- | -------- |
 | 23.11.23(목) | ARC란? |
 | 23.11.23(목) | How ARC Works? |
+| 23.11.23(목) | ARC in Action |
 
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
 - [How ARC Works?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-HowARCWorks.md)
+- [ARC in Action](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARCinAction.md)
 
 ## 📚 참고자료
 
