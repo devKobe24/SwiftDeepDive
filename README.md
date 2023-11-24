@@ -21,6 +21,7 @@
 | 23.11.23(목) | ARC in Action |
 | 23.11.24(금) | 명령형 프로그래밍 패러다임(Imperative programming paradigm) |
 | 23.11.24(금) | 객체 지향 프로그래밍 패러다임(Object-Oriented Programming, OOP) |
+| 23.11.24(금) | Swift에서의 프로토콜(Protocol) |
 
 
 ## 📖 목차
@@ -29,6 +30,7 @@
 - [ARC in Action](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARCinAction.md)
 - [명령형 프로그래밍 패러다임(Imperative programming paradigm)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-IPP.md)
 - [객체 지향 프로그래밍 패러다임(Object-Oriented Programming, OOP)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-OOP.md)
+- [Swift에서의 프로토콜](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-Protocol.md)
 
 ## 📚 참고자료
 
