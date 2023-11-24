@@ -19,12 +19,14 @@
 | 23.11.23(목) | ARC란? |
 | 23.11.23(목) | How ARC Works? |
 | 23.11.23(목) | ARC in Action |
+| 23.11.24(금) | 명령형 프로그래밍 패러다임(Imperative programming paradigm) |
 
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
 - [How ARC Works?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-HowARCWorks.md)
 - [ARC in Action](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARCinAction.md)
+- [명령형 프로그래밍 패러다임(Imperative programming paradigm)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-IPP.md)
 
 ## 📚 참고자료
 
