@@ -22,6 +22,7 @@
 | 23.11.24(금) | 명령형 프로그래밍 패러다임(Imperative programming paradigm) |
 | 23.11.24(금) | 객체 지향 프로그래밍 패러다임(Object-Oriented Programming, OOP) |
 | 23.11.24(금) | Swift에서의 프로토콜(Protocol) |
+| 23.11.24(토) | 프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP) |
 
 
 ## 📖 목차
@@ -31,6 +32,7 @@
 - [명령형 프로그래밍 패러다임(Imperative programming paradigm)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-IPP.md)
 - [객체 지향 프로그래밍 패러다임(Object-Oriented Programming, OOP)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-OOP.md)
 - [Swift에서의 프로토콜](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231124-Protocol.md)
+- [프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231125-POP.md)
 
 ## 📚 참고자료
 
