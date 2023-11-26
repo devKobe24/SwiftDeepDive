@@ -23,8 +23,8 @@
 | 23.11.24(금) | 객체 지향 프로그래밍 패러다임(Object-Oriented Programming, OOP) |
 | 23.11.24(금) | Swift에서의 프로토콜(Protocol) |
 | 23.11.24(토) | 프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP) |
-| 23.11.25(일) | Swift에서의 인스턴스(Instance) |
-| 23.11.25(일) | Swift의 UnsafeMutableRawPointer |
+| 23.11.25(일) | Swift에서의 인스턴스(Instance) |
+| 23.11.25(일) | Swift의 UnsafeMutableRawPointer |
 
 
 ## 📖 목차
