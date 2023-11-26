@@ -25,6 +25,7 @@
 | 23.11.24(토) | 프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP) |
 | 23.11.25(일) | Swift에서의 인스턴스(Instance) |
 | 23.11.25(일) | Swift의 UnsafeMutableRawPointer |
+| 23.11.25(일) | 암시적 브리징(Implicit bridging) |
 
 
 ## 📖 목차
@@ -37,6 +38,7 @@
 - [프로토콜 지향 프로그래밍(Protocol-Oriented Programming, POP)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231125-POP.md)
 - [Swift에서의 인스턴스(Instance)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-Instance.md)
 - [UnsafeMutableRawPointer](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-UnsafeMutableRawPointer.md)
+- [암시적 브리징(Implicit bridging)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-ImplicitBridging.md)
 
 ## 📚 참고자료
 
