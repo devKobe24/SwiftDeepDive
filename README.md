@@ -28,6 +28,7 @@
 | 23.11.25(일) | 암시적 브리징(Implicit bridging) |
 | 23.11.28(월) | Strong Reference Cycle Between Class Instances |
 | 23.11.28(월) | Swift에서의 참조(Reference)란? |
+| 23.11.28(월) | Swift에서의 타입(Type) |
 
 
 ## 📖 목차
@@ -43,6 +44,7 @@
 - [암시적 브리징(Implicit bridging)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-ImplicitBridging.md)
 - [Strong Reference Cycle Between Class Instances](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-SRCBCI.md)
 - [Swift에서의 참조(Reference)란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-SwiftReference.md)
+- [Swift에서의 타입(Type)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-type.md)
 
 ## 📚 참고자료
 
