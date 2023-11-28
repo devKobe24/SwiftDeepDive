@@ -26,10 +26,11 @@
 | 23.11.25(일) | Swift에서의 인스턴스(Instance) |
 | 23.11.25(일) | Swift의 UnsafeMutableRawPointer |
 | 23.11.25(일) | 암시적 브리징(Implicit bridging) |
-| 23.11.28(월) | Strong Reference Cycle Between Class Instances |
-| 23.11.28(월) | Swift에서의 참조(Reference)란? |
-| 23.11.28(월) | Swift에서의 타입(Type) |
-| 23.11.29(화) | Swift Toolchain |
+| 23.11.28(화) | Strong Reference Cycle Between Class Instances |
+| 23.11.28(화) | Swift에서의 참조(Reference)란? |
+| 23.11.28(화) | Swift에서의 타입(Type) |
+| 23.11.29(수) | Swift Toolchain |
+| 23.11.29(수) | The LLVM Compiler Infrastructure |
 
 
 ## 📖 목차
@@ -47,8 +48,10 @@
 - [Swift에서의 참조(Reference)란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-SwiftReference.md)
 - [Swift에서의 타입(Type)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-type.md)
 - [Swift Toolchain](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-toolchain.md)
+- [The LLVM Compiler Infrastructure](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-LLVM.md)
 
 ## 📚 참고자료
 
 - [Swift.org - Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
 - [Documentation Archive - Transitionung to ARC Releas Notes](https://developer.apple.com/library/archive/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html)
+- [llvm.org](https://llvm.org/)
