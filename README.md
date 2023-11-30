@@ -51,7 +51,7 @@
 - [Swift Toolchain](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-toolchain.md)
 - [The LLVM Compiler Infrastructure](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-LLVM.md)
 - [associatedtype](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-associatedtype.md)
-
+- [Types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-type.md)
 ## 📚 참고자료
 
 - [Swift.org - Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
