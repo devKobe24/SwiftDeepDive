@@ -31,6 +31,7 @@
 | 23.11.28(화) | Swift에서의 타입(Type) |
 | 23.11.29(수) | Swift Toolchain |
 | 23.11.29(수) | The LLVM Compiler Infrastructure |
+| 23.12.01(금) | associatedtype |
 
 
 ## 📖 목차
@@ -49,6 +50,7 @@
 - [Swift에서의 타입(Type)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231128-type.md)
 - [Swift Toolchain](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-toolchain.md)
 - [The LLVM Compiler Infrastructure](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-LLVM.md)
+- [associatedtype](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-associatedtype.md)
 
 ## 📚 참고자료
 
