@@ -34,6 +34,7 @@
 | 23.12.01(금) | associatedtype |
 | 23.12.01(금) | @usableFromInline |
 | 23.12.01(금) | Attributes |
+| 23.12.01(금) | consuming keyword |
 
 
 ## 📖 목차
@@ -56,6 +57,7 @@
 - [Types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-type.md)
 - [@usableFromInline](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-usableFromInline.md)
 - [Attributes](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-attributes.md)
+- [consuming keyword](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-consuming.md)
 
 ## 📚 참고자료
 
