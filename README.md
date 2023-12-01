@@ -32,6 +32,7 @@
 | 23.11.29(수) | Swift Toolchain |
 | 23.11.29(수) | The LLVM Compiler Infrastructure |
 | 23.12.01(금) | associatedtype |
+| 23.12.01(금) | @usableFromInline |
 
 
 ## 📖 목차
@@ -52,6 +53,8 @@
 - [The LLVM Compiler Infrastructure](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-LLVM.md)
 - [associatedtype](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-associatedtype.md)
 - [Types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-type.md)
+- [@usableFromInline](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-usableFromInline.md)
+
 ## 📚 참고자료
 
 - [Swift.org - Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language)
