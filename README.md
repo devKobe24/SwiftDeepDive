@@ -31,8 +31,8 @@
 | 23.11.28(화) | Swift에서의 타입(Type) |
 | 23.11.29(수) | Swift Toolchain |
 | 23.11.29(수) | The LLVM Compiler Infrastructure |
-| 23.12.01(금) | associatedtype |
-| 23.12.01(금) | @usableFromInline |
+| 23.12.01(금) | associatedtype |
+| 23.12.01(금) | @usableFromInline |
 
 
 ## 📖 목차
