@@ -89,6 +89,6 @@ for number in countDown {
 
 ### 참고자료 📚
 
-- [Swift에서의 Instance](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-Instance.md
+- [Swift에서의 Instance](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231126-Instance.md)
 - [developer.apple.com - Sequence](https://developer.apple.com/documentation/swift/sequence)
 - [developer.apple.com - Iterator](https://developer.apple.com/documentation/swift/sequence/iterator)
