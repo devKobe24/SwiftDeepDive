@@ -33,6 +33,7 @@
 | 23.11.29(수) | The LLVM Compiler Infrastructure |
 | 23.12.01(금) | associatedtype |
 | 23.12.01(금) | @usableFromInline |
+| 23.12.01(금) | Attributes |
 
 
 ## 📖 목차
@@ -54,6 +55,7 @@
 - [associatedtype](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-associatedtype.md)
 - [Types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-type.md)
 - [@usableFromInline](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-usableFromInline.md)
+- [Attributes](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-attributes.md)
 
 ## 📚 참고자료
 
