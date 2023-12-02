@@ -32,6 +32,7 @@
 | 23.11.29(수) | Swift Toolchain |
 | 23.11.29(수) | The LLVM Compiler Infrastructure |
 | 23.12.01(금) | associatedtype |
+| 23.12.01(금) | Type & Mutation(1) |
 | 23.12.01(금) | @usableFromInline |
 | 23.12.01(금) | Attributes |
 | 23.12.01(금) | consuming keyword |
@@ -54,7 +55,7 @@
 - [Swift Toolchain](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-toolchain.md)
 - [The LLVM Compiler Infrastructure](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231129-LLVM.md)
 - [associatedtype](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-associatedtype.md)
-- [Types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-type.md)
+- [Type & Mutation(1)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-typeAndMutation.md)
 - [@usableFromInline](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-usableFromInline.md)
 - [Attributes](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-attributes.md)
 - [consuming keyword](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-consuming.md)
