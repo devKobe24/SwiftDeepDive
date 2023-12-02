@@ -36,7 +36,7 @@
 | 23.12.01(금) | @usableFromInline |
 | 23.12.01(금) | Attributes |
 | 23.12.01(금) | consuming keyword |
-
+| 23.12.02(토) | Type & Mutation(2) |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -59,6 +59,7 @@
 - [@usableFromInline](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-usableFromInline.md)
 - [Attributes](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-attributes.md)
 - [consuming keyword](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-consuming.md)
+- [Type & Mutation(2)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2312202-typeAndMutation-2.md)
 
 ## 📚 참고자료
 
