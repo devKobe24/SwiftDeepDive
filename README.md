@@ -37,6 +37,7 @@
 | 23.12.01(금) | Attributes |
 | 23.12.01(금) | consuming keyword |
 | 23.12.02(토) | Type & Mutation(2) |
+| 23.12.03(일) | Equatable |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -60,6 +61,7 @@
 - [Attributes](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-attributes.md)
 - [consuming keyword](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231201-consuming.md)
 - [Type & Mutation(2)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2312202-typeAndMutation-2.md)
+- [Equatable](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231203-Equatable.md)
 
 ## 📚 참고자료
 
