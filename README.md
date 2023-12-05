@@ -39,6 +39,7 @@
 | 23.12.02(토) | Type & Mutation(2) |
 | 23.12.03(일) | Equatable |
 | 23.12.04(월) | UnsafePointer |
+| 23.12.05(화) | Hasher(1) |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -64,6 +65,7 @@
 - [Type & Mutation(2)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2312202-typeAndMutation-2.md)
 - [Equatable](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231203-Equatable.md)
 - [UnsafePointer](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231204-UnsafePointer-1.md)
+- [Hasher(1)](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231205-Hasher-1.md)
 
 ## 📚 참고자료
 
