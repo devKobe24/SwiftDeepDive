@@ -43,6 +43,7 @@
 | 23.12.10(일) | Core Concept(1): Easy onboarding, Multi-paradigm |
 | 23.12.11(월) | Core Concept(2): The Swift Compiler |
 | 23.12.12(화) | Character |
+| 23.12.13(수) | The magic of SIL |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -72,6 +73,7 @@
 - [Core Concept(1): Easy onboarding, Multi-paradigm](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231210-coreConcept-1.md)
 - [Core Concept(2): The Swift Compiler](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231211-CoreConcept.md)
 - [Character](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231212-Character.md)
+- [The magic of SIL](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231213-magicOfSIL.md)
 
 ## 📚 참고자료
 
