@@ -45,6 +45,7 @@
 | 23.12.12(화) | Character |
 | 23.12.13(수) | The magic of SIL |
 | 23.12.14(목) | Implementating a language feature: Building ifelse |
+| 23.12.14(목) | The sweet spot of Swift |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -76,6 +77,7 @@
 - [Character](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231212-Character.md)
 - [The magic of SIL](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231213-magicOfSIL.md)
 - [Implementating a language feature: Building ifelse](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-implementating.md)
+- [The sweet spot of Swift](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-TheSweetSpotOfSwift.md)
 
 ## 📚 참고자료
 
