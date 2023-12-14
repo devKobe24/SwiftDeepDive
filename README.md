@@ -47,6 +47,7 @@
 | 23.12.14(목) | Implementating a language feature: Building ifelse |
 | 23.12.14(목) | The sweet spot of Swift |
 | 23.12.14(목) | Defering execution |
+| 23.12.14(목) | Using expression that can fail |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -80,6 +81,7 @@
 - [Implementating a language feature: Building ifelse](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-implementating.md)
 - [The sweet spot of Swift](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-TheSweetSpotOfSwift.md)
 - [Defering execution](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-DeferringExecution.md)
+- [Using expression that can fail](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-UETCF.md)
 
 ## 📚 참고자료
 
