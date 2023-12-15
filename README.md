@@ -52,6 +52,7 @@
 | 23.12.15(금) | Key points |
 | 23.12.15(금) | Types & Mutation |
 | 23.12.15(금) | Types & Mutation: The fundamental types |
+| 23.12.15(토) | Types & Mutation: Modeling with types |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -90,6 +91,7 @@
 - [Key points](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-keypoints.md)
 - [Types & Mutation](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-TypeAndMutation.md)
 - [Types & Mutation: The fundamental types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-TFMT.md)
+- [Types & Mutation: Modeling with types](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231216-Modeling.md)
 
 ## 📚 참고자료
 
