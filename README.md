@@ -49,6 +49,7 @@
 | 23.12.14(목) | Implementing a language feature: Defering execution |
 | 23.12.14(목) | Implementing a language feature: Using expression that can fail |
 | 23.12.15(금) | Implementing a language feature: Performance |
+| 23.12.15(금) | Key points |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -84,6 +85,7 @@
 - [Implementing a language feature: Defering execution](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-DeferringExecution.md)
 - [Implementing a language feature: Using expression that can fail](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-UETCF.md)
 - [Implementing a language feature: Perfomance](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-Performance.md)
+- [Key points](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-keypoints.md)
 
 ## 📚 참고자료
 
