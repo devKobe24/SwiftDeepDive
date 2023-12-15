@@ -48,6 +48,7 @@
 | 23.12.14(목) | The sweet spot of Swift |
 | 23.12.14(목) | Defering execution |
 | 23.12.14(목) | Using expression that can fail |
+| 23.12.15(금) | Performance |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -82,6 +83,7 @@
 - [The sweet spot of Swift](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-TheSweetSpotOfSwift.md)
 - [Defering execution](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-DeferringExecution.md)
 - [Using expression that can fail](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231214-UETCF.md)
+- [Perfomance](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231215-Performance.md)
 
 ## 📚 참고자료
 
