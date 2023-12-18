@@ -54,7 +54,7 @@
 | 23.12.15(금) | Types & Mutation: The fundamental types |
 | 23.12.15(토) | Types & Mutation: Modeling with types |
 | 23.12.17(일) | Types & Mutation: Functions and methods |
-| 23.12.17(일) | Types & Mutation: Key Points |
+| 23.12.18(월) | Types & Mutation: Key Points |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
