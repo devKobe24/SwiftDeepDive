@@ -57,6 +57,7 @@
 | 23.12.18(월) | Types & Mutation: Key Points |
 | 23.12.20(수) | Array 내부 구현 뜯어보기. |
 | 23.12.21(목) | Protocols |
+| 23.12.21(목) | Protocols: Getting started with protocols. |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -100,6 +101,7 @@
 - [Types &  Mutation: Key points.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231218-TypesAndMutationKeyPoints.md)
 - [Array 내부 구현 뜯어보기.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231220-ArrayAnatomy.md)
 - [Protocols](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-Protocols.md)
+- [Protocols: Getting started with protocols.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-gettingStarted.md)
 
 ## 📚 참고자료
 
