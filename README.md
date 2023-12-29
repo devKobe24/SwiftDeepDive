@@ -58,6 +58,7 @@
 | 23.12.20(수) | Array 내부 구현 뜯어보기. |
 | 23.12.21(목) | Protocols |
 | 23.12.21(목) | Protocols: Getting started with protocols. |
+| 23.12.29(금) | `@_eagerMove` 속성. |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -102,6 +103,7 @@
 - [Array 내부 구현 뜯어보기.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231220-ArrayAnatomy.md)
 - [Protocols](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-Protocols.md)
 - [Protocols: Getting started with protocols.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-gettingStarted.md)
+- [`@_eagerMove` 속성.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-29-eagerMove.md)
 
 ## 📚 참고자료
 
