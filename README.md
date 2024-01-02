@@ -59,7 +59,6 @@
 | 23.12.21(목) | Protocols |
 | 23.12.21(목) | Protocols: Getting started with protocols. |
 | 23.12.29(금) | `@_eagerMove` 속성. |
-| 24.01.02(화) | Swift로 도넛 프로그램 만들기. |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -105,7 +104,6 @@
 - [Protocols](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-Protocols.md)
 - [Protocols: Getting started with protocols.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-gettingStarted.md)
 - [`@_eagerMove` 속성.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-29-eagerMove.md)
-- [Swift 도넛 프로그램](https://github.com/devKobe24/SwiftDeepDive/tree/main/SwiftDonut)
 
 ## 📚 참고자료
 
