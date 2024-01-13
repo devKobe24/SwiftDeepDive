@@ -59,6 +59,7 @@
 | 23.12.21(목) | Protocols |
 | 23.12.21(목) | Protocols: Getting started with protocols. |
 | 23.12.29(금) | `@_eagerMove` 속성. |
+| 24.01.14(토) | 배열 크기 늘리기 - `reserveCapacity(_:)` |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
