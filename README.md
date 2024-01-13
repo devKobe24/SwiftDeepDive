@@ -104,6 +104,7 @@
 - [Protocols](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-Protocols.md)
 - [Protocols: Getting started with protocols.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-gettingStarted.md)
 - [`@_eagerMove` 속성.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-29-eagerMove.md)
+- [배열 크기 늘리기 - `reserveCapacity(_:)`](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2024-01-14-Array.md)
 
 ## 📚 참고자료
 
