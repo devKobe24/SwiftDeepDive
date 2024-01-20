@@ -60,6 +60,7 @@
 | 23.12.21(목) | Protocols: Getting started with protocols. |
 | 23.12.29(금) | `@_eagerMove` 속성. |
 | 24.01.14(토) | 배열 크기 늘리기 - `reserveCapacity(_:)` |
+| 24.01.20(토) | Sequence |
 
 ## 📖 목차
 - [ARC란?](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/231123-ARC.md)
@@ -106,6 +107,7 @@
 - [Protocols: Getting started with protocols.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-21-gettingStarted.md)
 - [`@_eagerMove` 속성.](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2023-12-29-eagerMove.md)
 - [배열 크기 늘리기 - `reserveCapacity(_:)`](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2024-01-14-Array.md)
+- [Sequence](https://github.com/devKobe24/SwiftDeepDive/blob/main/contents/2024-01-20-Sequence.md)
 
 ## 📚 참고자료
 
